@@ -1,2 +1,2 @@
 # counterapp
-An simple app similar to a shopping cart system
+An simple app with React similar to a shopping cart system
